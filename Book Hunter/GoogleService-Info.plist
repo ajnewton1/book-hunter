@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>876617336407-lfrpo8hb3aiq86cr3v34uj79t7coga4d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.876617336407-lfrpo8hb3aiq86cr3v34uj79t7coga4d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFytuOoq2aq-i5LFxsbIVk0HsEcaaeb08</string>
+	<key>GCM_SENDER_ID</key>
+	<string>876617336407</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>newton.ajn.Book-Hunter</string>
+	<key>PROJECT_ID</key>
+	<string>pitt-mobile-app-32a4b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pitt-mobile-app-32a4b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:876617336407:ios:f0e513f35c81933b</string>
+	<key>DATABASE_URL</key>
+	<string>https://pitt-mobile-app-32a4b.firebaseio.com</string>
+</dict>
+</plist>

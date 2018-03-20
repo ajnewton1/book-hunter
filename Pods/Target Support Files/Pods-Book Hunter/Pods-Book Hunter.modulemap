@@ -1,0 +1,6 @@
+framework module Pods_Book_Hunter {
+  umbrella header "Pods-Book Hunter-umbrella.h"
+
+  export *
+  module * { export * }
+}
